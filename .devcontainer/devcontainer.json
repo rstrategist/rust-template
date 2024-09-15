@@ -9,7 +9,8 @@
 			"extensions": [
 				"rust-lang.rust-analyzer",
 				"vadimcn.vscode-lldb",
-				"GitHub.copilot-nightly"
+				"AmazonWebServices.amazon-q-vscode",
+				"github.vscode-github-actions"
 			]
 		}
 	},
