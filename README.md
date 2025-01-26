@@ -2,7 +2,7 @@
 
 # Rust template
 
-_This template repository is part of a 4-week Rust course, [start on week 1 here](https://github.com/alfredodeza/rust-setup) if you want to learn more about Rust!_
+_This template repository is part of a 4-week [Rust course](https://github.com/alfredodeza/rust-setup) if you want to learn more about Rust!_
 
 This Rust template is meant to help you get quickly started with a new project. It is [Codespaces enabled](https://docs.github.com/en/codespaces/overview) and it is pre-configured with useful extensions like Rust Analyzer.
 
